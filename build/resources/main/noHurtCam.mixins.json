@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.nohurtcam.nohurtcam.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "GameRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

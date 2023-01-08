@@ -1,0 +1,4 @@
+me/nohurtcam/nohurtcam/mixin/GameRendererMixin.java
+ me.nohurtcam.nohurtcam.mixin.GameRendererMixin
+me/nohurtcam/nohurtcam/NoHurtCam.java
+ me.nohurtcam.nohurtcam.NoHurtCam
